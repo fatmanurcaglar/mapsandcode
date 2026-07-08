@@ -1,7 +1,7 @@
 <h4>👋 Hi, I'm @fatmanurcaglar, I'm a React Front-End Web, Backend, Native Mobile Developer and Survey Engineer.</h4>
 
 
-- 👀 I’m interested in engineering, software development, GIS, technologi and art.
+- 👀 I’m interested in engineering, software development, GIS and technologi.
 
 - 💻 I’m currently focused on **HTML, CSS, JS,**
   
